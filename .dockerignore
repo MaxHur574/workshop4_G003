@@ -1,0 +1,17 @@
+# Ignorar control de versiones
+.git
+.gitignore
+
+# Ignorar cachés y compilados
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignorar entornos virtuales locales
+.venv/
+.env
+
+# Ignorar archivos temporales
+*.swp
+*.log
